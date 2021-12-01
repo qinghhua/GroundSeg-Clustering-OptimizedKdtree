@@ -11,9 +11,8 @@
 
   **b) [sorting part of data in each dimension]( /)**
 
-![origin](https://user-images.githubusercontent.com/38379703/144193381-e9574be0-e31d-4908-86f7-74023f1ca459.png)
-![ground](https://user-images.githubusercontent.com/38379703/144193411-1d2094d6-988d-4e0a-ae81-e67a9dfc6452.png)
-![non_ground](https://user-images.githubusercontent.com/38379703/144193430-15223a2e-5611-411f-ba9c-ef926a0ccad7.png)
-![sample](https://user-images.githubusercontent.com/38379703/144193439-c692ab4a-6a8f-4088-8d35-1a0f06ca54b1.png)
-![cluster](https://user-images.githubusercontent.com/38379703/144193454-9904c17e-f7bb-4858-8c2f-6847dcd0dbab.png)
-<img src="/home/yst/Documents/groundSegAndClustering/img/origin.png" alt="origin" style="zoom:25%;" />
+<img src="https://user-images.githubusercontent.com/38379703/144193381-e9574be0-e31d-4908-86f7-74023f1ca459.png" width=400 height=512 title = "origin data"/> <img src="https://user-images.githubusercontent.com/38379703/144193411-1d2094d6-988d-4e0a-ae81-e67a9dfc6452.png" width=512 height=550 title = "ground points / ">
+<img src="https://user-images.githubusercontent.com/38379703/144193430-15223a2e-5611-411f-ba9c-ef926a0ccad7.png" width=480 height=512 title = "non ground points" /> <img src="https://user-images.githubusercontent.com/38379703/144193439-c692ab4a-6a8f-4088-8d35-1a0f06ca54b1.png" width=480 height=512 title = "sampled non ground points" />
+<img src="https://user-images.githubusercontent.com/38379703/144193454-9904c17e-f7bb-4858-8c2f-6847dcd0dbab.png" width=1024 height=512 title = "clusters" />
+
+
