@@ -3,9 +3,9 @@
 ### 1.change the "root dir name" in "main.py" to the absolute path of your velodyne data, and run "main.py"
    `python main.py`
 
-### 2.project including ground [segemantation]( /), [downsampling]( /), [clustering]( /), and a [optimized version of kdtree]( /).
+### 2.project including [ground segemantation]( /), [downsampling]( /), [clustering]( /), and a [optimized version of kdtree]( /).
 
-### 3. The optimazation of kdtree mainy include:
+### 3. The optimazation of kdtree mainly include:
 
   **a) [split tree along dimension with max variance]( /) instead of so called "round axis" or random axis**
 
