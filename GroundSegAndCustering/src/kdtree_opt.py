@@ -133,8 +133,6 @@ class KDTree_opt:
     @staticmethod
     def next_axis(data):
         # 按方差最大的轴进行分割，加快搜索速度
-        a = np.var(data, axis=0)
-        b = np.argmax(a)
         return np.argmax(np.var(data, axis=0))
 
     def query_neighbors(self, root: Node, data: np.ndarray,
